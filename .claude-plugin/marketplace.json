@@ -1,0 +1,15 @@
+{
+	"name": "eccs0103",
+	"owner": {
+		"name": "eccs0103",
+		"url": "https://github.com/eccs0103"
+	},
+	"description": "Claude Code plugins by eccs0103.",
+	"plugins": [
+		{
+			"name": "product-vision",
+			"source": "./plugins/product-vision",
+			"description": "Collects a project's product decisions into docs/product/ and makes every session and subagent follow them."
+		}
+	]
+}
