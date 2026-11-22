@@ -1,4 +1,4 @@
-# eccs0103 plugins
+# eccs0103
 
 A [Claude Code plugin marketplace](https://code.claude.com/docs/en/plugin-marketplaces).
 
