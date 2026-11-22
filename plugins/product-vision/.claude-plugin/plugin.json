@@ -1,6 +1,6 @@
 {
 	"name": "product-vision",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Collects a project's product decisions into docs/product/ (vision, MADR decision records, roadmap, glossary, changelog) and makes every session and subagent follow them.",
 	"author": {
 		"name": "eccs0103",
